@@ -12,3 +12,4 @@ To write a Python program that prints the characters `'T'` and `'a'` using chara
 ## Output
 
 ## Result
+Thus,the program has been executed successfully.
